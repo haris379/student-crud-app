@@ -1,0 +1,29 @@
+Tasks
+🚀 LEVEL 1 — Real Beginner Client Tasks
+🧾 Task 1: Student Registration System
+
+👉 Very common in universities / academies
+
+Features:   
+
+Create student (name, email, course)
+
+Show all students
+
+Edit student info
+
+Delete student
+
+MongoDB Schema:
+{
+  name: String,
+  email: String,
+  course: String,
+  createdAt: Date
+}
+Real-world twist:
+
+❗ Prevent duplicate emails
+
+❗ Show success message after adding
+
